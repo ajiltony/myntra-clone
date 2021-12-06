@@ -1,2 +1,3 @@
 # myntra-clone
-react.js project
+react.js model project
+
